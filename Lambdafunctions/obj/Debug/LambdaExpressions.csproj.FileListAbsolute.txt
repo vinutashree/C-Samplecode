@@ -1,0 +1,7 @@
+C:\Users\rdladmin\source\repos\Lambdafunctions\bin\Debug\Lambdafunctions.exe.config
+C:\Users\rdladmin\source\repos\Lambdafunctions\bin\Debug\Lambdafunctions.exe
+C:\Users\rdladmin\source\repos\Lambdafunctions\bin\Debug\Lambdafunctions.pdb
+C:\Users\rdladmin\source\repos\Lambdafunctions\obj\Debug\LambdaExpressions.csproj.AssemblyReference.cache
+C:\Users\rdladmin\source\repos\Lambdafunctions\obj\Debug\LambdaExpressions.csproj.CoreCompileInputs.cache
+C:\Users\rdladmin\source\repos\Lambdafunctions\obj\Debug\Lambdafunctions.exe
+C:\Users\rdladmin\source\repos\Lambdafunctions\obj\Debug\Lambdafunctions.pdb

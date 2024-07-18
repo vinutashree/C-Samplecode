@@ -1,0 +1,7 @@
+C:\Users\Hpadmin\source\repos\Parallelmethod\bin\Debug\Parallelmethod.exe.config
+C:\Users\Hpadmin\source\repos\Parallelmethod\bin\Debug\Parallelmethod.exe
+C:\Users\Hpadmin\source\repos\Parallelmethod\bin\Debug\Parallelmethod.pdb
+C:\Users\Hpadmin\source\repos\Parallelmethod\obj\Debug\Parallelmethod.csproj.AssemblyReference.cache
+C:\Users\Hpadmin\source\repos\Parallelmethod\obj\Debug\Parallelmethod.csproj.CoreCompileInputs.cache
+C:\Users\Hpadmin\source\repos\Parallelmethod\obj\Debug\Parallelmethod.exe
+C:\Users\Hpadmin\source\repos\Parallelmethod\obj\Debug\Parallelmethod.pdb

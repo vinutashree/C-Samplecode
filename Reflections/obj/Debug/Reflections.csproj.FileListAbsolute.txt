@@ -1,0 +1,14 @@
+C:\Users\rdladmin\source\repos\Reflections\bin\Debug\Reflections.exe.config
+C:\Users\rdladmin\source\repos\Reflections\bin\Debug\Reflections.exe
+C:\Users\rdladmin\source\repos\Reflections\bin\Debug\Reflections.pdb
+C:\Users\rdladmin\source\repos\Reflections\obj\Debug\Reflections.csproj.AssemblyReference.cache
+C:\Users\rdladmin\source\repos\Reflections\obj\Debug\Reflections.csproj.CoreCompileInputs.cache
+C:\Users\rdladmin\source\repos\Reflections\obj\Debug\Reflections.exe
+C:\Users\rdladmin\source\repos\Reflections\obj\Debug\Reflections.pdb
+C:\Users\Hpadmin\Desktop\Advancetopicsinc#\Reflections\Reflections\bin\Debug\Reflections.exe.config
+C:\Users\Hpadmin\Desktop\Advancetopicsinc#\Reflections\Reflections\bin\Debug\Reflections.exe
+C:\Users\Hpadmin\Desktop\Advancetopicsinc#\Reflections\Reflections\bin\Debug\Reflections.pdb
+C:\Users\Hpadmin\Desktop\Advancetopicsinc#\Reflections\Reflections\obj\Debug\Reflections.csproj.AssemblyReference.cache
+C:\Users\Hpadmin\Desktop\Advancetopicsinc#\Reflections\Reflections\obj\Debug\Reflections.csproj.CoreCompileInputs.cache
+C:\Users\Hpadmin\Desktop\Advancetopicsinc#\Reflections\Reflections\obj\Debug\Reflections.exe
+C:\Users\Hpadmin\Desktop\Advancetopicsinc#\Reflections\Reflections\obj\Debug\Reflections.pdb

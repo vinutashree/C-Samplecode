@@ -1,0 +1,14 @@
+C:\Users\Hpadmin\source\repos\ParallelTPL\bin\Debug\ParallelTPL.exe.config
+C:\Users\Hpadmin\source\repos\ParallelTPL\bin\Debug\ParallelTPL.exe
+C:\Users\Hpadmin\source\repos\ParallelTPL\bin\Debug\ParallelTPL.pdb
+C:\Users\Hpadmin\source\repos\ParallelTPL\obj\Debug\ParallelTPL.csproj.AssemblyReference.cache
+C:\Users\Hpadmin\source\repos\ParallelTPL\obj\Debug\ParallelTPL.csproj.CoreCompileInputs.cache
+C:\Users\Hpadmin\source\repos\ParallelTPL\obj\Debug\ParallelTPL.exe
+C:\Users\Hpadmin\source\repos\ParallelTPL\obj\Debug\ParallelTPL.pdb
+C:\Users\Hpadmin\Desktop\Advancetopicsinc#\ParallelTPL\bin\Debug\ParallelTPL.exe.config
+C:\Users\Hpadmin\Desktop\Advancetopicsinc#\ParallelTPL\bin\Debug\ParallelTPL.exe
+C:\Users\Hpadmin\Desktop\Advancetopicsinc#\ParallelTPL\bin\Debug\ParallelTPL.pdb
+C:\Users\Hpadmin\Desktop\Advancetopicsinc#\ParallelTPL\obj\Debug\ParallelTPL.csproj.AssemblyReference.cache
+C:\Users\Hpadmin\Desktop\Advancetopicsinc#\ParallelTPL\obj\Debug\ParallelTPL.csproj.CoreCompileInputs.cache
+C:\Users\Hpadmin\Desktop\Advancetopicsinc#\ParallelTPL\obj\Debug\ParallelTPL.exe
+C:\Users\Hpadmin\Desktop\Advancetopicsinc#\ParallelTPL\obj\Debug\ParallelTPL.pdb
